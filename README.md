@@ -3,7 +3,7 @@ parse and solve infix equation strings
 
 Requirements:
 1. Your parser should parse an infix expression that supports the following
-   arithmetic and logical operators with the specified precedencies:
+   arithmetic and logical operators with the specified precedencies: /n
     !  //logical 
     ++ //prefix increment
     -- //prefix decrement 
